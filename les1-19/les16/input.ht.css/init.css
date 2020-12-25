@@ -1,0 +1,62 @@
+input:focus {
+    outline: none;
+    border: rgb(205, 218, 28) 3px solid;
+    border-radius: 2%;
+    box-shadow: rgb(134, 18, 211) 1px 10px;
+}
+
+.r:focus {
+    outline: none;
+    border: rgb(204, 171, 171) 3px solid;
+    border-radius: 2%;
+    box-shadow: rgb(20, 43, 255) 1px 10px;
+}
+
+.t:focus {
+    outline: none;
+    border: rgb(62, 228, 186) 3px solid;
+    border-radius: 2%;
+    box-shadow: rgb(192, 34, 73) 1px 10px;
+}
+
+.y:focus {
+    outline: none;
+    border: rgb(14, 238, 182) 3px solid;
+    border-radius: 2%;
+    box-shadow: rgb(165, 112, 201) 1px 10px;
+}
+
+.f:focus {
+    outline: none;
+    border: rgb(238, 14, 163) 3px solid;
+    border-radius: 2%;
+    box-shadow: rgb(146, 103, 175) 1px 10px;
+}
+
+.d:focus {
+    outline: none;
+    border: rgb(51, 238, 14) 3px solid;
+    border-radius: 2%;
+    box-shadow: rgb(174, 175, 103) 1px 10px;
+}
+
+.g:focus {
+    outline: none;
+    border: rgb(243, 174, 24) 3px solid;
+    border-radius: 2%;
+    box-shadow: rgb(174, 175, 103) 1px 10px;
+}
+
+.h:focus {
+    outline: none;
+    border: rgb(36, 99, 194) 3px solid;
+    border-radius: 2%;
+    box-shadow: rgb(226, 144, 21) 1px 10px;
+}
+
+.l:focus {
+    outline: none;
+    border: rgb(231, 119, 157) 3px solid;
+    border-radius: 2%;
+    box-shadow: rgb(135, 240, 143) 1px 10px;
+}

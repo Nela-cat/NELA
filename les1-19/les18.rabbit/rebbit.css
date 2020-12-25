@@ -1,0 +1,297 @@
+.box {
+    background-color: rgb(110, 110, 108);
+    width: 300px;
+    height: 300px;
+    margin: auto auto;
+    margin-top: 300px;
+    border: solid rgb(88, 88, 87);
+    border-radius: 40% 40% 40% 40%;
+    display: block;
+    z-index: 2;
+}
+
+.ears {
+    display: flex;
+    width: 450px;
+    height: 180px;
+    justify-content: space-around;
+}
+
+.ear1 {
+    width: 70px;
+    height: 200px;
+    background-color: rgb(110, 110, 108);
+    border-radius: 50% 50% 50% 50%;
+    border: 3px solid rgb(70, 70, 69);
+    position: relative;
+    bottom: 100px;
+    z-index: -1;
+    left: -40px;
+    right: 40px;
+}
+
+.ear2 {
+    width: 70px;
+    height: 200px;
+    background-color: rgb(110, 110, 108);
+    border-radius: 50% 50% 50% 50%;
+    border: 3px solid rgb(83, 83, 83);
+    position: relative;
+    bottom: 100px;
+    z-index: -1;
+    right: 99px;
+}
+
+.ear01 {
+    width: 50px;
+    height: 110px;
+    background-color: rgb(223, 156, 184);
+    border-radius: 50% 50% 50% 50%;
+    border: rgb(66, 54, 27) 3px solid;
+    position: relative;
+    bottom: 100px;
+    z-index: -2;
+    left: 10px;
+    right: 4px;
+    margin-top: 130px;
+}
+
+.ear02 {
+    width: 50px;
+    height: 110px;
+    background-color: rgb(223, 156, 184);
+    border-radius: 50% 50% 50% 50%;
+    border: rgb(99, 61, 61) 3px solid;
+    position: relative;
+    bottom: 100px;
+    z-index: -1;
+    right: -9px;
+    margin-top: 130px;
+}
+
+.brovi {
+    display: flex;
+    width: 300px;
+    height: 15px;
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    bottom: 85px;
+}
+
+.brovi1 {
+    width: 20px;
+    height: 4px;
+    background-color: black;
+    border: 1px solid rgb(0, 0, 0);
+    right: 10px;
+    border-radius: 40% 40%;
+}
+
+.brovi2 {
+    width: 20px;
+    height: 4px;
+    background-color: black;
+    border: 1px solid rgb(0, 0, 0);
+    left: 40px;
+    right: 40px;
+    border-radius: 40% 40%;
+}
+
+.eyes {
+    display: flex;
+    width: 190px;
+    height: 150px;
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    bottom: 85px;
+}
+
+.eye1 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 100%;
+    left: 60px;
+    right: 30px;
+}
+
+.eye2 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 100%;
+    position: relative;
+    right: -80px;
+}
+
+.eye01 {
+    width: 40px;
+    height: 40px;
+    background-color: rgb(148, 55, 177);
+    border: 4px solid rgb(79, 72, 136);
+    border-radius: 100%;
+    background: linear-gradient(red, transparent), linear-gradient(to top left, lime, transparent), linear-gradient(to top right, blue, transparent);
+    background-blend-mode: screen;
+    left: 30px;
+}
+
+.eye02 {
+    width: 40px;
+    height: 40px;
+    background-color: rgb(96, 60, 121);
+    border: 4px solid rgb(58, 58, 100);
+    border-radius: 100%;
+    background: linear-gradient(red, transparent), linear-gradient(to top left, lime, transparent), linear-gradient(to top right, blue, transparent);
+    background-blend-mode: screen;
+}
+
+.eye001 {
+    width: 20px;
+    height: 20px;
+    background-color: rgb(36, 29, 29);
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 100%;
+}
+
+.eye002 {
+    width: 20px;
+    height: 20px;
+    background-color: rgb(44, 25, 25);
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 100%;
+}
+
+.eye0001 {
+    width: 10px;
+    height: 10px;
+    background-color: rgb(252, 247, 247);
+    border: 2px solid rgb(71, 59, 59);
+    border-radius: 100%;
+}
+
+.eye0002 {
+    width: 10px;
+    height: 10px;
+    background-color: rgb(241, 227, 227);
+    border: 2px solid rgb(148, 132, 132);
+    border-radius: 100%;
+}
+
+.hoh {
+    display: flex;
+    width: 150px;
+    height: 150px;
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    bottom: 90px;
+}
+
+.hoh2 {
+    width: 60px;
+    height: 60px;
+    background-color: rgb(240, 107, 169);
+    border: 3px solid rgb(82, 13, 45);
+    border-radius: 100%;
+    margin-top: -50px;
+}
+
+.hoh3 {
+    width: 60px;
+    height: 60px;
+    background-color: rgb(240, 107, 169);
+    border: 3px solid rgb(82, 13, 45);
+    border-radius: 100%;
+    position: relative;
+    right: -150px;
+    margin-top: -50px;
+}
+
+.nos {
+    display: flex;
+    width: 350px;
+    height: 180px;
+    justify-content: space-around;
+    rotate: 45deg;
+    left: 40px;
+    right: 20px;
+}
+
+.nos1 {
+    width: 30px;
+    height: 30px;
+    background-color: rgb(44, 40, 27);
+    border-radius: 80% 30% 30% 30%;
+    border: 3px solid rgb(36, 32, 20);
+    position: relative;
+    bottom: 320px;
+    left: 40px;
+    transform: rotate(45deg);
+    z-index: 2;
+    right: 20px;
+}
+
+.zyb {
+    display: flex;
+    width: 150px;
+    height: 180px;
+    justify-content: space-around;
+}
+
+.zyb1 {
+    width: 35px;
+    height: 35px;
+    background-color: rgb(143, 143, 142);
+    border-radius: 100%;
+    border: 3px solid rgb(51, 51, 51);
+    position: relative;
+    bottom: 470px;
+    left: 30px;
+    z-index: 1;
+}
+
+.rot1 {
+    width: 35px;
+    height: 35px;
+    background-color: rgb(143, 143, 142);
+    border-radius: 100%;
+    border: 3px solid rgb(51, 51, 51);
+    position: relative;
+    bottom: 470px;
+    left: 90px;
+    z-index: 2;
+}
+
+.zybu {
+    width: 40px;
+    height: 40px;
+    position: relative;
+    bottom: 455px;
+}
+
+.zybu1 {
+    width: 30px;
+    height: 30px;
+    background-color: rgb(252, 250, 241);
+    border-radius: 30% 30% 30% 30%;
+    border: 3px solid rgb(36, 32, 20);
+    position: relative;
+    bottom: -5px;
+    left: 60px;
+    z-index: 1;
+}
+
+.per {
+    width: 3px;
+    height: 28px;
+    background-color: rgb(85, 79, 54);
+    border-radius: 30% 30% 30% 30%;
+    position: relative;
+    bottom: -2px;
+    left: 14px;
+    z-index: 7;
+}

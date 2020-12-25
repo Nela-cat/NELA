@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(235, 230, 162);
+    width: 900px;
+    margin: 0 auto;
+    padding: 0 40px 40px 40px;
+    border: 5px solid rgb(58, 163, 170);
+}
+
+html {
+    font-size: 20px;
+}
+
+html {
+    background: url(https://i.pinimg.com/474x/1e/92/e6/1e92e66c6fdf7e55a91fe1ab460ef899.jpg);
+}
+
+img {
+    border-radius: 90px;
+    display: block;
+    margin: 0 auto;
+    border: 3px solid goldenrod;
+    width: 300px;
+}
+
+.block1 {
+    width: 900px;
+    background: rgb(58, 163, 170);
+    border: 3px solid goldenrod;
+}
+
+a {
+    font-size: 30px;
+    text-decoration: blueviolet;
+    none
+}
+
+img {
+    width: 150px;
+}
+
+body {
+    color: teal;
+}

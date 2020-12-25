@@ -1,0 +1,58 @@
+.head {
+    background-color: rgb(25, 77, 42);
+    height: 200px;
+    margin-bottom: 10px;
+}
+
+.sidebar-1 {
+    background-color: rgb(122, 28, 22);
+    height: 500px;
+    margin-left: 2px;
+    width: 15%;
+    float: left;
+}
+
+.sidebar-2 {
+    background-image: url(https://multioptic.com.ua/image/cache/catalog/2020/Prada/women/PR%2067XS/prada-pr-67xs-01h1p1-500x220.jpg);
+    height: 500px;
+    margin-right: 2px;
+    width: 15%;
+    float: left;
+}
+
+.content {
+    background-color: rgb(245, 164, 43);
+    height: 500px;
+    margin-bottom: 10px;
+    width: 69%;
+    float: left;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+.footer {
+    background-color: rgb(54, 31, 117);
+    height: 300px;
+    clear: both;
+}
+
+.u:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+img {
+    border: darkgreen;
+    margin: auto;
+    display: block;
+    border-radius: 300px;
+}
+
+a {
+    color: darkorchid;
+}
+
+body {
+    color: coral;
+}

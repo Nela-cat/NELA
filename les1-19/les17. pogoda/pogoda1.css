@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    height: 2000px;
+    background-color: red;
+    background-image: url(./img/2e47041dc5284f7e610ba3b3b92151ce.gif);
+    background-size: 100% auto;
+    background-position: top center;
+    background-attachment: fixed;
+}
+
+body {
+    height: 100%;
+    background-image: linear-gradient(rgb(108, 246, 90), transparent 70%);
+    background-size: 100% 100%;
+    mix-blend-mode: lighten;
+}
+
+.mam {
+    display: flex;
+}
+
+.qqq img {
+    width: 150px;
+    height: 150px;
+}
+
+img {
+    border-radius: 5%;
+    width: 250px;
+    height: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+body {
+    background: linear-gradient(45deg, #11404e, #C5DDE8);
+}
+
+.q {
+    background: linear-gradient(rgb(194, 7, 241), transparent), linear-gradient(to top left, rgb(90, 88, 247), transparent), linear-gradient(to top right, rgb(101, 0, 160), transparent);
+    background-blend-mode: screen;
+    width: 200px;
+    height: 200px;
+    transition: all 0.8s;
+    margin: 3% 3%;
+    overflow: hidden;
+    box-shadow: rgb(29, 0, 6) 5px 3px;
+    border: 6px solid #7922CC;
+    border-radius: 25px;
+}
+
+.q:hover {
+    background: rgb(0, 13, 36);
+    width: 400px;
+    height: 444px;
+    margin: 2% 2%;
+}
+
+h1 {
+    display: block;
+    font-size: 3rem;
+    margin-right: 0.5rem;
+    text-align: center;
+    margin-bottom: 1rem;
+    -webkit-transition: all .2s;
+    transition: all .2s;
+    background: repeating-linear-gradient( 45deg, rgb(184, 238, 34), rgb(224, 221, 51) 3px, #a421f0 3px, #f19925 8px);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: #1f1405;
+}
+
+h2 {
+    text-shadow: rgb(223, 194, 247) 3px 3px;
+    color: rgb(32, 32, 1);
+    font-size: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(252, 252, 252);
+    font-size: 30px;
+}
+
+.dar {
+    text-align: center;
+    align-items: center;
+    padding-top: 50%;
+}

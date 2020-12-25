@@ -1,0 +1,116 @@
+* {
+    display: flex;
+    justify-content: space-around;
+}
+
+.box {
+    background-color: chocolate;
+    width: 150px;
+    height: 200px;
+    transition: all 0.8s;
+    overflow: scroll;
+}
+
+.box:hover {
+    background-color: cornflowerblue;
+    width: 400px;
+    height: 444px;
+}
+
+.bqx {
+    background-color: rgb(132, 210, 30);
+    width: 200px;
+    height: 200px;
+    transition: all 0.8s;
+    overflow: scroll;
+}
+
+.bqx:hover {
+    background-color: cornflowerblue;
+    width: 400px;
+    height: 444px;
+}
+
+.bwx {
+    background-color: rgb(153, 30, 210);
+    width: 200px;
+    height: 200px;
+    transition: all 0.8s;
+    overflow: scroll;
+}
+
+.bwx:hover {
+    background-color: cornflowerblue;
+    width: 400px;
+    height: 444px;
+}
+
+.bex {
+    background-color: rgb(30, 210, 120);
+    width: 200px;
+    height: 200px;
+    transition: all 0.8s;
+    overflow: scroll;
+}
+
+.bex:hover {
+    background-color: cornflowerblue;
+    width: 400px;
+    height: 444px;
+}
+
+.brx {
+    background-color: rgb(210, 30, 84);
+    width: 200px;
+    height: 200px;
+    transition: all 0.8s;
+    overflow: scroll;
+}
+
+.brx:hover {
+    background-color: cornflowerblue;
+    width: 400px;
+    height: 444px;
+}
+
+.btx {
+    background-color: rgb(147, 210, 30);
+    width: 200px;
+    height: 200px;
+    transition: all 0.8s;
+    overflow: scroll;
+}
+
+.btx:hover {
+    background-color: cornflowerblue;
+    width: 400px;
+    height: 444px;
+}
+
+.b {
+    background-color: rgb(210, 153, 30);
+    width: 200px;
+    height: 200px;
+    transition: all 0.8s;
+    overflow: scroll;
+}
+
+.b:hover {
+    background-color: cornflowerblue;
+    width: 400px;
+    height: 444px;
+}
+
+.x {
+    background-color: rgb(48, 30, 210);
+    width: 200px;
+    height: 200px;
+    transition: all 0.8s;
+    overflow: scroll;
+}
+
+.x:hover {
+    background-color: cornflowerblue;
+    width: 400px;
+    height: 444px;
+}

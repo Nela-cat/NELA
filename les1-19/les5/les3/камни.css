@@ -1,0 +1,11 @@
+  img {
+      border: 5px rgb(42, 86, 168);
+      margin: auto;
+      display: block;
+      border-radius: 100px;
+      width: 150px;
+  }
+  
+  body {
+      color: blanchedalmond;
+  }

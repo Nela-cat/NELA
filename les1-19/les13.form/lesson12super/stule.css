@@ -1,0 +1,62 @@
+.box-box{
+    display: flex;
+}
+
+.box1{
+    width:460px ;
+    height:202px ;
+    background-color: rgb(61, 109, 180);
+    margin: 20px;
+    margin-bottom: 20px;
+    margin-top: 40px;
+    display: flex;
+    
+}
+img{
+    width: 240px;
+    height: 260PX;
+    display: block;
+    bottom: 10px;
+    position: relative;
+
+}
+.text{
+    font-size: 10px;
+    color: cornsilk;
+   flex-direction: row-reverse;
+   text-shadow:5px 3px 3px darkgreen;
+   padding-left: 50px;
+}
+h4{
+   
+    justify-content: flex-end;
+    float: direction 3px; row-reverse;
+}
+.box2{
+    width:450px ;
+    height:202px ;
+    background-color: rgba(167, 22, 17, 0.849);
+    margin: 20px;
+    margin-bottom: 100px;
+    margin-top: 40px;
+    display: flex;
+    
+}
+.box3{
+    width:450px ;
+    height:202px ;
+    background-color: rgba(82, 17, 167, 0.849);
+    margin: 20px;
+    margin-bottom: 200px;
+    margin-top: 40px;
+    display: flex;
+}
+.box4{
+    width:450px ;
+    height:202px ;
+    background-color: rgba(17, 167, 97, 0.849);
+    margin: 20px;
+    margin-bottom: 200px;
+    margin-top: 40px;
+    display: flex;
+}

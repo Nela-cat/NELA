@@ -1,0 +1,30 @@
+ol {
+    counter-reset: li;
+    /* Инициируем счетчик */
+    list-style: none;
+    font: 15px 'trebuchet MS', 'lucida sans';
+    padding: 0;
+    margin-bottom: 4em;
+    text-shadow: 0 1px 0 rgba(153, 13, 218, 0.5);
+}
+
+ol ol {
+    margin: 0 0 0 2em;
+}
+
+.rounded-list a {
+    position: relative;
+    display: block;
+    padding: .4em .4em .4em 2em;
+    *padding: .4em;
+    margin: .5em 0;
+    background: rgb(41, 128, 150);
+    color: #444;
+    text-decoration: none;
+    border-radius: .3em;
+    transition: all .3s ease-out;
+}
+
+.rounded-list a:hover {
+    background: rgb(150, 37, 37);
+}

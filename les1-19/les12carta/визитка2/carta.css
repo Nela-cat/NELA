@@ -1,0 +1,78 @@
+.wrap {
+    background-image: linear-gradient(145deg, #ee82ee, slateblue, #ffd86a, purple);
+    margin: 20% auto;
+    width: 500px;
+    height: 400px;
+    padding: 30px;
+    -webkit-box-shadow: 0px 0px 30px 0px rgba(50, 50, 50, 1);
+    -moz-box-shadow: 0px 0px 30px 0px rgba(50, 50, 50, 1);
+    box-shadow: 0px 0px 30px 0px rgba(50, 50, 50, 1);
+    /*
+	Так же 3 строчки для обеспечения кроссбраузерности
+	свойства закругленных углов
+	*/
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+}
+
+h3 {
+    display: flex;
+    color: rgb(231, 223, 188);
+    text-shadow: 3px 3px 0px rgb(7, 4, 3);
+}
+
+.text {
+    font-size: 15px;
+    flex-direction: 20px;
+    color: rgb(75, 149, 209);
+    text-shadow: 3px 3px 0px rgb(36, 20, 15);
+    padding-left: 35px;
+    position: relative;
+}
+
+
+/*-----Разделяющая линия-----*/
+
+.wrap hr {
+    margin-top: 15px;
+}
+
+.company_description {
+    margin-left: 100px;
+    font-size: 17px;
+    font-weight: 900;
+    font-style: italic;
+}
+
+.main_info {
+    margin-top: 20px;
+    position: relative;
+}
+
+.site {
+    font-weight: 900;
+    font-size: 30px;
+}
+
+.info {
+    float: right;
+}
+
+.sized {
+    font-size: 18px;
+}
+
+img {
+    border-radius: 40px;
+    display: block;
+    margin: 0 auto;
+    width: 90px;
+    padding-right: 50%;
+    height: 90;
+
+}
+
+body {
+    background: #ffe3a6;
+}

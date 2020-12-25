@@ -1,0 +1,53 @@
+     * {
+         box-sizing: border-box;
+     }
+     
+     body {
+         background: #beeb77;
+     }
+     
+     .postcard {
+         max-width: 350px;
+         margin: 50px auto 0;
+         padding: 50px;
+         background: #e2da9d;
+         border: 10px solid transparent;
+         border-image: 10 repeating-linear-gradient(135deg, #4e3209, #def03f 10px, transparent 10px, transparent 20px, #FBCFDF 20px, #FBCFDF 30px, transparent 30px, transparent 40px);
+         font-family: 'Playfair Display';
+         color: #a72e20;
+     }
+     
+     .form-row {
+         margin-bottom: 15px;
+     }
+     
+     .form-row input[type="text"],
+     .form-row input[type="email"],
+     .form-row input [type="age"],
+     .form-row textarea {
+         width: 100%;
+         padding: 10px;
+         line-height: 35px;
+         border-width: 0;
+         outline: none;
+     }
+     
+     .submit-button {
+         display: inline-block;
+         padding: 5px;
+         background: #f0debd;
+         padding-right: 50%;
+     }
+     
+     .submit-button input {
+         padding: 9px;
+         background: #e4d7c1;
+         border-width: 5px;
+         text-transform: uppercase;
+         cursor: pointer;
+     }
+     
+     p {
+         font-size: large;
+         font-family: Impact, fantasy;
+     }

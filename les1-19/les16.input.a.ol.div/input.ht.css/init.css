@@ -1,0 +1,41 @@
+input:focus {
+    outline: none;
+    border: darkred 3px solid;
+    border-radius: 2%;
+    box-shadow: deeppink 1px 10px;
+}
+
+.r:focus {
+    outline: none;
+    border: rgb(204, 171, 171) 3px solid;
+    border-radius: 2%;
+    box-shadow: rgb(20, 43, 255) 1px 10px;
+}
+
+.t:focus {
+    outline: none;
+    border: rgb(171, 204, 196) 3px solid;
+    border-radius: 2%;
+    box-shadow: rgb(161, 20, 255) 1px 10px;
+}
+
+.y:focus {
+    outline: none;
+    border: rgb(14, 238, 182) 3px solid;
+    border-radius: 2%;
+    box-shadow: rgb(67, 4, 109) 1px 10px;
+}
+
+.f:focus {
+    outline: none;
+    border: rgb(238, 14, 163) 3px solid;
+    border-radius: 2%;
+    box-shadow: rgb(146, 103, 175) 1px 10px;
+}
+
+.d:focus {
+    outline: none;
+    border: rgb(51, 238, 14) 3px solid;
+    border-radius: 2%;
+    box-shadow: rgb(174, 175, 103) 1px 10px;
+}

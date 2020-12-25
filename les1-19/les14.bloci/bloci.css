@@ -1,0 +1,111 @@
+.blok1 {
+    width: 500px;
+    margin-bottom: 20px;
+}
+
+.read {
+    background-color: aqua;
+    height: 100px;
+}
+
+.grin {
+    background-color: rgb(0, 255, 21);
+    height: 100px;
+}
+
+.el {
+    background-color: rgb(229, 255, 0);
+    height: 100px;
+}
+
+.d {
+    width: 600px;
+    margin-bottom: 4%;
+}
+
+.a {
+    width: 500px;
+    background-color: beige;
+}
+
+.te {
+    background-color: rgb(0, 255, 21);
+    height: 50px;
+    margin-bottom: 10px;
+    width: 170px;
+    float: left;
+}
+
+.er {
+    background-color: rgb(234, 0, 255);
+    height: 50px;
+    margin-bottom: 10px;
+    width: 165px;
+    float: left;
+}
+
+.tu {
+    background-color: rgb(255, 123, 0);
+    height: 50px;
+    margin-bottom: 10px;
+    width: 165px;
+    float: left;
+}
+
+.f {
+    background-color: gold;
+    width: 500px;
+    height: 100px;
+}
+
+.r {
+    width: 600px;
+}
+
+.u {
+    background-color: rgb(255, 123, 0);
+    height: 50px;
+    width: 250px;
+    float: left;
+}
+
+.p {
+    background-color: rgb(0, 183, 255);
+    height: 50px;
+    width: 250px;
+    float: left;
+}
+
+.t5 {
+    background-color: rgb(58, 158, 12);
+    width: 500px;
+    height: 200px;
+    justify-content: space-around;
+    display: flex;
+}
+
+.t6 {
+    background-color: rgb(158, 34, 12);
+    width: 100px;
+    height: 100px;
+    margin-top: 10%;
+}
+
+.t7 {
+    background-color: rgb(156, 158, 12);
+    width: 100px;
+    height: 100px;
+    margin-top: 10%;
+}
+
+.t8 {
+    background-color: rgb(14, 12, 158);
+    width: 100px;
+    height: 100px;
+    margin-top: 10%;
+}
+
+p {
+    text-align: center;
+    padding: 20%;
+}
