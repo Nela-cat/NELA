@@ -1,0 +1,277 @@
+.body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(233, 214, 188);
+    padding: 0 40px 40px 40px;
+    width: 1500px;
+}
+
+html {
+    background-image: url(./img/3dd8c01806e467d2499b589b36db7b69.gif);
+    border: 5px dotted rgb(144, 132, 146);
+    width: 1500px;
+    margin: auto;
+}
+
+.textp {
+    background: radial-gradient(circle, #9cb878, #ac9965);
+    border-radius: 0%;
+}
+
+.box5 h3 {
+    color: rgb(189, 127, 127);
+    font-size: 19px;
+}
+
+.box3 h3 {
+    color: rgb(61, 11, 11);
+    font-size: 19px;
+}
+
+.box4 h3 {
+    color: rgb(90, 70, 16);
+    font-size: 19px;
+}
+
+.box6 h3 {
+    color: rgb(128, 116, 15);
+    font-size: 19px;
+}
+
+.box7 h3 {
+    color: rgb(83, 185, 199);
+    font-size: 19px;
+}
+
+.ter {
+    border-radius: 0%;
+    width: 1060px;
+    height: 60px;
+    display: block;
+    margin: auto auto;
+}
+
+h1 {
+    color: rgb(14, 10, 17);
+}
+
+.box1 {
+    width: 100%;
+    background: radial-gradient(circle, #dca2eb, #7addee);
+}
+
+li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(65, 99, 11);
+    font-size: 25px;
+}
+
+.wrap {
+    width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+img {
+    width: 200px;
+    height: 300px;
+}
+
+.content {
+    display: block;
+    justify-content: space-evenly;
+}
+
+.box3 {
+    margin: 40px;
+    border: rgb(0, 0, 0) 3px dotted;
+}
+
+.box4 {
+    margin: 40px;
+    border: rgb(0, 0, 0) 3px dotted;
+}
+
+.box5 {
+    margin: 40px;
+    border: rgb(0, 0, 0) 3px dotted;
+}
+
+.box6 {
+    margin: 40px;
+    border: rgb(0, 0, 0) 3px dotted;
+}
+
+.box7 {
+    margin: 45px;
+    border: rgb(0, 0, 0) 3px dotted;
+}
+
+.rart {
+    display: flex;
+    margin: auto;
+}
+
+.oll {
+    background-color: rgb(223, 214, 174);
+}
+
+.flor {
+    background-color: rgb(138, 126, 75);
+    padding: 20px;
+}
+
+.flor li {
+    display: block;
+}
+
+.xxx {
+    background-color: rgb(206, 203, 38);
+    width: 90px;
+    height: 700px;
+    flex-direction: row;
+}
+
+.rounded-list a {
+    position: relative;
+    display: block;
+    padding: .4em .4em .4em 2em;
+    margin: .5em 0;
+    text-decoration: none;
+    border-radius: 0%;
+    transition: all .3s ease-out;
+    *padding: .4em;
+    margin: .5em 0;
+    background: rgb(120, 167, 102);
+    color: rgba(22, 73, 12, 0.836);
+    text-decoration: none;
+    border: rgb(11, 19, 11) 2px inset;
+}
+
+.rounded-list a:hover {
+    background: rgb(206, 124, 69);
+    box-shadow: 9px 9px 3px rgba(161, 132, 93, 0.904);
+}
+
+.r:focus {
+    outline: none;
+    border: rgb(204, 171, 171) 3px solid;
+    border-radius: 2%;
+    box-shadow: rgb(6, 11, 59) 1px 10px;
+    height: 40px;
+}
+
+@media screen and (max-width:768px) {}
+
+@media screen and (max-width:1023px) {
+    .content {
+        display: block;
+    }
+    .rart {
+        display: block;
+    }
+}
+
+@media screen and (max-width:320px) {
+    .content {
+        display: block;
+        width: 200px;
+    }
+    .rart {
+        display: block;
+    }
+    input {
+        display: none;
+    }
+    li {
+        display: block;
+    }
+    .nav {
+        margin-right: 1070px;
+    }
+    .textp {
+        width: 200px;
+        display: block;
+    }
+    .ter {
+        margin-right: 1500px;
+        display: block;
+        height: 79px;
+        width: 200px;
+    }
+    .qwe {
+        margin-right: 1000px;
+    }
+}
+
+@media (width: 320px) {
+    .qwe {
+        margin-right: 1190px;
+    }
+    h1 {
+        margin-right: 1090px;
+    }
+    .textp {
+        margin-right: 1190px;
+    }
+    .ter {
+        width: 260px;
+        height: 300px;
+        display: block;
+        margin-right: 1190px;
+    }
+    .nav {
+        margin-right: 1270px;
+    }
+}
+
+@media (width: 768px) {
+    .qwe {
+        margin-right: 890px;
+    }
+    h1 {
+        margin-right: 790px;
+    }
+    .textp {
+        margin-right: 800px;
+    }
+    .ter {
+        width: 660px;
+        height: 100px;
+        display: block;
+        margin-right: 1190px;
+    }
+    .nav {
+        margin-right: 1070px;
+    }
+}
+
+@media (width: 1024px) {
+    .qwe {
+        margin-right: 790px;
+    }
+    h1 {
+        margin-right: 790px;
+    }
+    .textp {
+        margin-right: 790px;
+    }
+    .ter {
+        width: 760px;
+        height: 100px;
+        display: block;
+        margin-right: 1190px;
+    }
+    .nav {
+        margin-right: 1070px;
+    }
+    .rart {
+        display: block;
+    }
+}
