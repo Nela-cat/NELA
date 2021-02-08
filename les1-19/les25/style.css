@@ -1,0 +1,14 @@
+.grid div {
+    background-color: rgb(241, 176, 225);
+    border: 1px solid rgb(140, 238, 230);
+    border-radius: 5px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 200px 200px;
+    grid-template-columns: minmax(100px, auto) 1fr 1fr;
+    grid-auto-flow: column;
+    grid-template-rows: 20px;
+    grid-gap: 20px;
+}
