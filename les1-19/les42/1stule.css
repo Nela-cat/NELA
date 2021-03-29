@@ -1,0 +1,182 @@
+.box8 {
+    width: 100%;
+    height: 900px;
+    background-color: rgb(255, 255, 255);
+}
+
+.h18 {
+    position: relative;
+    font-size: 24px;
+    font-family: 'Playfair Display SC', serif;
+    top: 40px;
+    text-align: center;
+}
+
+.h108 {
+    position: relative;
+    font-size: 24px;
+    font-family: 'Playfair Display SC', serif;
+    top: 70px;
+    text-align: center;
+}
+
+.img008 {
+    position: relative;
+    top: 90px;
+    left: 920px;
+}
+
+.h1008 {
+    position: relative;
+    font-size: 15px;
+    font-family: 'Playfair Display SC', serif;
+    top: 100px;
+    text-align: center;
+    color: rgb(118, 126, 126);
+}
+
+.img0008 {
+    position: relative;
+    top: 250px;
+    left: 90px;
+}
+
+.mal008 {
+    top: -310px;
+    left: 700px;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    width: 382px;
+}
+
+.img98 {
+    position: relative;
+    top: -10px;
+    left: 0px;
+    width: 382px;
+    height: 470px;
+}
+
+.textbox821 {
+    position: relative;
+    font-size: 14px;
+    font-family: 'Playfair Display SC', serif;
+    text-align: center;
+}
+
+.textbox8221 {
+    position: relative;
+    font-size: 11px;
+    font-family: 'Playfair Display SC', serif;
+    color: rgb(170, 167, 167);
+    text-align: center;
+}
+
+.mal0008 {
+    top: -830px;
+    left: 1290px;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    width: 382px;
+}
+
+.box9 {
+    width: 1921px;
+    height: 251px;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    top: 100px;
+}
+
+.box9img {
+    position: relative;
+    top: 60px;
+    left: 280px;
+}
+
+.box10 {
+    height: 1456px;
+    width: 100%;
+}
+
+.text9 {
+    position: relative;
+    top: 140px;
+}
+
+.box10img {
+    position: relative;
+    top: -900px;
+}
+
+.box10text {
+    position: relative;
+    color: rgb(255, 255, 255);
+    font-family: 'Playfair Display SC', serif;
+    font-size: 12px;
+    text-align: center;
+    top: -1092px;
+    right: 250px;
+}
+
+.box100text {
+    position: relative;
+    color: rgb(255, 255, 255);
+    font-family: 'Playfair Display SC', serif;
+    font-size: 14px;
+    text-align: center;
+    top: -1090px;
+    right: 250px;
+}
+
+.box11mal {
+    width: 100%;
+    height: 400px;
+    background-color: rgba(165, 42, 42, 0);
+    position: relative;
+    top: -950px;
+}
+
+.box11dev {
+    width: 1153px;
+    height: 212px;
+    background-color: rgba(100, 148, 237, 0);
+    position: relative;
+    top: 70px;
+    left: 340px;
+}
+
+.box111 {
+    width: 212px;
+    height: 212px;
+    border-radius: 100%;
+    background: url(./img/Layer\ 36@1X.png) no-repeat;
+}
+
+.box11text {
+    font-size: 20px;
+    font-family: ;
+    color: rgb(158, 154, 155);
+    position: relative;
+    top: -160px;
+    left: 240px;
+}
+
+.box11img1 {
+    top: -120px;
+    left: 240px;
+    position: relative;
+}
+
+.text11dox11 {
+    font-size: 20px;
+    font-family: ;
+    color: rgb(15, 15, 15);
+    position: relative;
+    top: -160px;
+    left: 320px;
+}
+
+.box12 {
+    width: ;
+}
