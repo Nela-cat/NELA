@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+
+
+
+
+    <script src="./aframe.min.js">
+    </script>
+
+
+    <a-scene>
+        <a-entity position="0 30 100">
+            <a-camera></a-camera>
+        </a-entity>
+        <a-sky src="https://lh3.googleusercontent.com/proxy/3BC0zzauLwbnaqevyHHukrO-JTvtAJDEL7P7ri_mVHgynLpTDAxFPF1MHcE3rm7RYnne4yh5mwjaXG7hO7dMMfVBAEYRecWD96lrBDD6Yn128IaRhvJl68tXQ5ylqRxQ=w1200-h630-p-k-no-nu"></a-sky>
+        <a-entity>
+            <a-sphere src="data:image/jpeg;base64,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"
+                radius="20" position="0 10 -50"></a-sphere>
+            <a-ring src="http://demiart.ru/forum/uploads1/post-2483-1217131971.jpg" rotation="-90 0 0" radius-inner="23" radius-outer="30" position="0 10 -50"></a-ring>
+
+            <a-animation attribute="rotation" dur=" 10000" from="0 0 0" to="0 360 0" repeat="indifinite" delay="0" easing="linear"></a-animation>
+        </a-entity>
+    </a-scene>
+</body>
+
+</html>

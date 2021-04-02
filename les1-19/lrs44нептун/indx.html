@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+
+
+
+
+    <script src="./aframe.min.js">
+    </script>
+
+
+    <a-scene>
+        <a-entity position="0 30 100">
+            <a-camera></a-camera>
+        </a-entity>
+        <a-sky src="https://lh3.googleusercontent.com/proxy/3BC0zzauLwbnaqevyHHukrO-JTvtAJDEL7P7ri_mVHgynLpTDAxFPF1MHcE3rm7RYnne4yh5mwjaXG7hO7dMMfVBAEYRecWD96lrBDD6Yn128IaRhvJl68tXQ5ylqRxQ=w1200-h630-p-k-no-nu"></a-sky>
+        <a-entity>
+            <a-sphere src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBib8WS0x0qbjPj15joFoFA4H6GhwQdSsnCA&usqp=CAU" radius="20" position="0 10 -50"></a-sphere>
+
+
+            <a-animation attribute="rotation" dur=" 10000" from="0 0 0" to="0 360 0" repeat="indifinite" delay="0" easing="linear"></a-animation>
+        </a-entity>
+    </a-scene>
+</body>
+
+</html>
