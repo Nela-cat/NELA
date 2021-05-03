@@ -1,0 +1,581 @@
+* {
+    margin: 0 auto;
+}
+
+.mama {
+    width: 100%;
+    height: 2320px;
+    background-color: #e5e5e500;
+    justify-content: space-around;
+}
+
+.menu {
+    width: 941px;
+    height: 65px;
+    background-color: #fcf9f9;
+    position: relative;
+    top: 50px;
+}
+
+.menumal {
+    width: 141px;
+    height: 65px;
+    background-color: #ECF0F1;
+    position: relative;
+    left: -240px;
+}
+
+.menuma0l {
+    width: 141px;
+    height: 65px;
+    background-color: #ffffff;
+    position: relative;
+    left: -390px;
+    top: -65px;
+}
+
+.menuImg1 {
+    position: relative;
+    width: 30px;
+    height: 30px;
+    right: 160px;
+    z-index: 1;
+    top: 15px;
+}
+
+.menuH1 {
+    font-size: 20px;
+    position: relative;
+    right: 120px;
+    z-index: 1;
+    top: -10px;
+    color: #2D3E50;
+    font-family: 'Poppins', sans-serif;
+}
+
+.menuImg01 {
+    position: relative;
+    width: 26px;
+    height: 26px;
+    left: 145px;
+    z-index: 1;
+    top: 12px;
+}
+
+.menuH01 {
+    font-size: 20px;
+    position: relative;
+    z-index: 1;
+    left: 180px;
+    top: -16px;
+    color: #2D3E50;
+    font-family: 'Poppins', sans-serif;
+}
+
+.menuPOL {
+    position: relative;
+    width: 141px;
+    height: 7px;
+    background-color: #9ba8b4;
+    z-index: 1;
+    left: 150px;
+}
+
+.menuma00l {
+    width: 141px;
+    height: 65px;
+    background-color: #ffffff;
+    position: relative;
+    left: -90px;
+    top: -130px;
+}
+
+.menuImg001 {
+    position: relative;
+    width: 35px;
+    height: 26px;
+    left: -5px;
+    z-index: 1;
+    top: 20px;
+}
+
+.menuH001 {
+    font-size: 20px;
+    position: relative;
+    z-index: 1;
+    left: 37px;
+    top: -6px;
+    color: #2D3E50;
+    font-family: 'Poppins', sans-serif;
+}
+
+.krug {
+    position: relative;
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    background-color: rgb(231, 75, 27);
+    top: -47px;
+    left: 90px;
+    text-align: center;
+    color: snow;
+}
+
+.input {
+    width: 188px;
+    height: 42px;
+    background-color: #c0c3c4;
+    position: relative;
+    top: -185px;
+    left: 340px;
+}
+
+input:focus {
+    outline: none;
+    border: rgb(185, 182, 182) 3px solid;
+    border-radius: 10% 10% 10% 10%;
+    box-shadow: rgba(153, 152, 153, 0.479) 1px 10px;
+    position: relative;
+}
+
+.d {
+    height: 21px;
+    width: 120px;
+    left: 16px;
+    position: relative;
+    top: px;
+    border: rgb(210, 211, 212) 1px solid;
+}
+
+.inputimg {
+    width: 25px;
+    height: 25px;
+    position: relative;
+    top: 7px;
+    left: 17px;
+}
+
+.box1 {
+    width: 941px;
+    height: 371px;
+    background-color: rgba(252, 252, 252, 0);
+    position: relative;
+    top: 90px;
+}
+
+.box1div1 {
+    height: 371px;
+    background-color: rgb(207, 207, 207);
+    position: relative;
+    width: 303px;
+    right: 321px;
+}
+
+.form-row {
+    margin-bottom: 15px;
+}
+
+.form-row input[type="text"],
+.form-row input[type="email"],
+.form-row textarea {
+    width: 220px;
+    padding: 10px;
+    line-height: 35px;
+    border-width: 0;
+    outline: none;
+    position: relative;
+    left: 30px;
+    top: 40px;
+}
+
+.name {
+    position: relative;
+    top: 80px;
+    z-index: 1;
+    left: 50px;
+    color: rgb(187, 183, 183);
+}
+
+.par {
+    position: relative;
+    top: 80px;
+    z-index: 1;
+    left: 50px;
+    color: rgb(187, 183, 183);
+}
+
+.bo1h1 {
+    position: relative;
+    text-align: center;
+    color: #2D3E50;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    top: 30px;
+}
+
+.box1a {
+    position: relative;
+    text-decoration: none;
+    top: 59px;
+    left: 65px;
+    background-color: #34495E;
+    border: #34495E solid;
+    color: #ffffff;
+    z-index: 1;
+    font-family: 'Open Sans', sans-serif;
+    padding: 15px 60px;
+    font-size: 20px;
+    width: 181px;
+    height: 56px;
+    font-family: 'Playfair Display SC', serif;
+    border-radius: 10% 10% 10% 10%;
+    font-size: 13px;
+}
+
+.bo1h01 {
+    position: relative;
+    text-align: center;
+    color: #030303;
+    font-family: 'Poppins', sans-serif;
+    font-size: 13px;
+    top: 80px;
+}
+
+.twit {
+    width: 301px;
+    height: 51px;
+    background-color: #2DAAE4;
+    position: relative;
+    top: 90px;
+}
+
+.twith1 {
+    position: relative;
+    font-size: 15px;
+    color: snow;
+    font-family: 'Open Sans', sans-serif;
+    top: -20px;
+    left: 70px;
+}
+
+.twitimg {
+    position: relative;
+    width: 30px;
+    height: 30px;
+    top: 9px;
+    left: 19px;
+}
+
+.box1div2 {
+    height: 371px;
+    background-color: rgb(186, 211, 198);
+    position: relative;
+    width: 303px;
+    right: -1px;
+    top: -280px;
+}
+
+.reg2 {
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    width: 303px;
+    height: 229px;
+}
+
+.reg2h1 {
+    position: relative;
+    text-align: center;
+    color: #030303;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    top: 20px;
+}
+
+.vse {
+    width: 303px;
+    height: 140px;
+    background-color: rgb(96, 151, 123);
+}
+
+.vse1 {
+    width: 76px;
+    background-color: #2b538b;
+    height: 140px;
+    position: relative;
+    right: 113px;
+}
+
+.vse1img {
+    width: 60px;
+    height: 60px;
+    position: relative;
+    top: 20px;
+    left: 7px;
+}
+
+.vse01 {
+    width: 76px;
+    background-color: #3fa2cc;
+    height: 140px;
+    position: relative;
+    right: 36px;
+    top: -140px;
+}
+
+.vse001 {
+    width: 76px;
+    background-color: #E64C65;
+    height: 140px;
+    position: relative;
+    left: 41px;
+    top: -280px;
+}
+
+.vse0001 {
+    width: 76px;
+    background-color: #334A5C;
+    height: 140px;
+    position: relative;
+    left: 113px;
+    top: -420px;
+}
+
+.box1div3 {
+    height: 371px;
+    background-color: #ffffff;
+    position: relative;
+    width: 303px;
+    left: 330px;
+    top: -653px;
+}
+
+.green {
+    width: 302px;
+    height: 195px;
+    background-color: #1BBC9B;
+}
+
+.krug2 {
+    width: 82px;
+    height: 82px;
+    border-radius: 100%;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    top: 50px;
+}
+
+.greenh1 {
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    text-align: center;
+    top: 60px;
+    position: relative;
+}
+
+.messej {
+    width: 302px;
+    height: 47;
+    background-color: rgb(255, 255, 255);
+    font-size: 8px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.mess2 {
+    position: relative;
+    top: -20px;
+    left: 100px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.mess3 {
+    position: relative;
+    top: -35px;
+    left: 190px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.greentext {
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+    font-size: 13px;
+    width: 270px;
+    height: 94px;
+    top: 30px;
+}
+
+.box1div1 {
+    height: 371px;
+    background-color: rgb(207, 207, 207);
+    position: relative;
+    width: 303px;
+    right: 321px;
+}
+
+.box2div1 {
+    height: 371px;
+    background-color: #dadada;
+    position: relative;
+    width: 303px;
+    right: 340px;
+    top: -1700px;
+}
+
+.box2h1 {
+    position: relative;
+    text-align: center;
+    color: #030303;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    top: 50px;
+}
+
+.bab1 {
+    width: 242px;
+    height: 29px;
+    position: relative;
+    top: 80px;
+}
+
+.bab01 {
+    width: 242px;
+    height: 29px;
+    position: relative;
+    top: 100px;
+}
+
+.bab001 {
+    width: 242px;
+    height: 29px;
+    position: relative;
+    top: 120px;
+}
+
+.bab0001 {
+    width: 242px;
+    height: 29px;
+    position: relative;
+    top: 140px;
+}
+
+.bab00001 {
+    width: 242px;
+    height: 29px;
+    position: relative;
+    top: 160px;
+}
+
+.cssdiv {
+    width: 158px;
+    height: 9px;
+    background: linear-gradient(to right, rgb(73, 224, 192), rgba(255, 192, 203, 0)) 50%;
+}
+
+.htmldiv {
+    width: 198px;
+    height: 9px;
+    background: linear-gradient(to right, rgb(73, 224, 192), rgba(255, 192, 203, 0)) 50%;
+}
+
+.Photoshopdiv {
+    width: 218px;
+    height: 9px;
+    background: linear-gradient(to right, rgb(73, 224, 192), rgba(255, 192, 203, 0)) 50%;
+}
+
+.Jquerydiv {
+    width: 218px;
+    height: 9px;
+    background: linear-gradient(to right, rgb(73, 224, 192), rgba(255, 192, 203, 0)) 50%;
+}
+
+.PHPdiv {
+    width: 118px;
+    height: 9px;
+    background: linear-gradient(to right, rgb(73, 224, 192), rgba(255, 192, 203, 0)) 50%;
+}
+
+.bown {
+    position: absolute;
+    text-decoration: none;
+    top: 946px;
+    left: 460px;
+    background-color: #fafdff;
+    border: #929292 solid 1px;
+    color: #000000;
+    z-index: 1;
+    font-family: 'Open Sans', sans-serif;
+    padding: 15px 60px;
+    font-size: 20px;
+    width: 181px;
+    height: 16px;
+    font-family: 'Playfair Display SC', serif;
+    font-size: 17px;
+}
+
+.box3 {
+    height: 371px;
+    background-color: #8d5e5e;
+    position: relative;
+    width: 303px;
+    left: 10px;
+    top: -2070px;
+}
+
+.malgrin {
+    width: 303px;
+    height: 61px;
+    background-color: #1BBC9B;
+    color: rgb(255, 255, 254);
+    text-align: center;
+}
+
+.malgr {
+    position: relative;
+    top: 20px;
+    font-size: 18px;
+}
+
+.diva1 {
+    width: 303px;
+    height: 61px;
+    background-color: #fbfdfd;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    border: slategrey 1px solid;
+}
+
+.diva2 {
+    width: 303px;
+    height: 61px;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    border: slategrey 1px solid;
+}
+
+.diva3 {
+    width: 303px;
+    height: 61px;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    border: slategrey 1px solid;
+}
+
+.diva4 {
+    width: 303px;
+    height: 61px;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    border: slategrey 1px solid;
+}
+
+.diva5 {
+    width: 303px;
+    height: 61px;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    border: slategrey 1px solid;
+}
