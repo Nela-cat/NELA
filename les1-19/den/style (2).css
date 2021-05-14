@@ -1,0 +1,148 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: rgb(82, 182, 240);
+}
+
+.wrapper {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+}
+
+.card {
+    width: 450px;
+    height: 240px;
+    position: relative;
+    left: 475px;
+    top: -250px;
+    border-radius: 20px;
+    background-image: url(./img/2695c1a2-25ea-419f-ae7a-0056b3b642e8.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    -webkit-box-shadow: 10px 10px 51px 30px rgba(0, 0, 0, 0.21);
+    -moz-box-shadow: 10px 10px 51px 30px rgba(0, 0, 0, 0.21);
+    box-shadow: 10px 10px 51px 30px rgba(0, 0, 0, 0.21);
+}
+
+.chip,
+.card_number,
+.card-bottom {
+    width: 90%;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 20px;
+}
+
+label {
+    margin-top: 30px;
+    font-size: 1.5em;
+    color: rgb(114, 114, 114);
+}
+
+.number-space {
+    width: 90%;
+    height: 50px;
+    border-radius: 10px;
+    border: 2px solid white;
+    display: flex;
+    align-items: center;
+    color: #fff;
+    font-size: 1.2em;
+}
+
+img {
+    width: 70px;
+    height: 50px;
+}
+
+span {
+    font-size: 1.5em;
+    color: #fff;
+}
+
+.holder,
+.expire {
+    height: 40px;
+}
+
+.holder>p,
+.expire>p,
+.expire>p>span {
+    color: #fff;
+    font-size: 1.2em;
+    margin-top: 5px;
+}
+
+.holder>label,
+.expire>label {
+    font-size: 1em;
+    margin: 0;
+}
+
+.field {
+    width: 500px;
+    height: 500px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.date {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-top: 30px;
+}
+
+#number,
+#name {
+    width: 80%;
+    height: 50px;
+    border: 2px solid rgb(187, 187, 187);
+    color: rgb(3, 3, 43);
+    font-size: 1.5em;
+}
+
+#number:hover,
+#name:hover {
+    border: 2px solid rgb(6, 73, 173);
+    border-radius: 10px;
+}
+
+.date-select,
+.cvv,
+.year {
+    width: 25%;
+}
+
+#date,
+#year,
+#cvv {
+    width: 100%;
+    height: 50px;
+    border: 2px solid rgb(187, 187, 187);
+}
+
+option {
+    color: rgb(5, 1, 27);
+    font-size: 1.5em;
+}

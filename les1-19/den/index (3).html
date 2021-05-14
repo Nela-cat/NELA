@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./style (2).css">
+</head>
+
+<body>
+    <div class="wrapper">
+        <div class="card">
+            <div class="chip">
+                <div class="image">
+                    <img src="./img/image_2021-04-23_18-00-04.png" alt="">
+                </div>
+                <span id="type">DISCOVER</span>
+            </div>
+            <div class="card_number">
+                <div class="number-space">
+                    <span id="card_number"></span>
+                </div>
+            </div>
+            <div class="card-bottom">
+                <div class="holder">
+                    <label for="">Card holder</label>
+                    <p id="card_name">Name Surname</p>
+                </div>
+                <div class="expire">
+                    <label for="">Expire date</label>
+                    <p>
+                        <span id="card_month">12</span>
+                        <span>/</span>
+                        <span id="card_year">2024</span>
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="field">
+            <div class="form">
+                <form action="">
+
+                    <label for="number">Card number</label>
+                    <input type="text" name="" id="number" placeholder="Set a card number">
+
+
+                    <label for="name">Name</label>
+                    <input type="text" name="" id="name" placeholder="Set your name">
+                    <div class="date">
+                        <div class="date-select">
+                            <label for="">Exp date</label>
+                            <select name="" id="date">
+                                <option value="01">January</option>
+                                <option value="02">February</option>
+                                <option value="03">March</option>
+                                <option value="04">April</option>
+                                <option value="05">May</option>
+                                <option value="06">June</option>
+                                <option value="07">July</option>
+                                <option value="08">August</option>
+                                <option value="09">September</option>
+                                <option value="10">October</option>
+                                <option value="11">November</option>
+                                <option value="12">December</option>
+                            </select>
+                        </div>
+                        <div class="year">
+                            <select name="" id="year">
+                            <option value="">2023</option>
+                            <option value="">2022</option>
+                            <option value="">2021</option>
+                            <option value="">2020</option>
+                            <option value="">2019</option>
+                            <option value="">2018</option>
+                            <option value="">2017</option>
+                        </select>
+                        </div>
+                        <div class="cvv">
+                            <label for="cvv">CVV</label>
+                            <input type="password" name="" id="cvv">
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <script src="./main.js"></script>
+</body>
+
+</html>

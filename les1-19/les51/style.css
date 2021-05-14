@@ -1,0 +1,290 @@
+* {
+    margin: 0 auto;
+}
+.box1{
+    width: 100%;
+    height: 1100px;
+    background: url(./img/img/index2.png) no-repeat;
+    background-size: 100%;
+    font-size: 100%;
+}
+.nav {
+    width: 100%;
+    height: 121px;
+    background-color: #FFFFFF;
+    position: absolute;
+    top: 0px;
+    justify-content: space-between;
+}
+
+.k {
+    top: 40px;
+    margin-left: 50px;
+    position: relative;
+}
+
+.nav2 {
+    display: flex;
+    margin-left: 900px;
+}
+
+.text1{
+    position: relative; 
+    top: 30px;
+    font-size: 20px;
+}
+.text22{
+width: 660px;
+height: 170px;
+background-color: rgba(0, 255, 128, 0);
+position: relative;
+top: 450px  ;
+}
+.text022{
+    position: relative;
+    color: white;
+    top: 20px;
+    text-align: center;
+    font-size: 60px;
+}.text0022{
+    position: relative;
+    color: white;
+    top: 60px;
+    text-align: center;
+    font-size: 20px;
+}
+.aaa{
+    position: relative;
+    width: 480px;
+    height: 140px;
+    background-color: rgba(255, 255, 0, 0);
+    top: 500px;
+}
+.a1{
+    width: 200px;
+    height: 70px;
+    border: solid #ffffff;
+    border-radius: 0%;
+    background-color: #00897b00;
+    position: absolute;
+    top: 20px;
+    left: 10px;
+    color: powderblue;
+    text-decoration: none;
+    text-align: center;
+    
+}
+.atext{
+    top: 20px;
+    position: relative;
+    font-size: 20px;
+}
+.a2{
+    width: 200px;
+    height: 70px;
+    border: solid #00897B;
+    border-radius: 0%;
+    background-color: #00897b;
+    position: absolute;
+    top: 20px;
+    left: 250px; background: url(./img/index2.png) no-repeat;
+    font-size: 11px;
+    text-decoration: none;
+}
+.atext2{
+    position: relative;
+    top: 20px;
+    left: 30px;
+    color: white;
+    
+}
+.box222{
+    width: 100%;
+    height: 900px;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    color: white;
+    text-align: center;
+    font-size: 22px;
+}
+.texth1{
+    position: relative;
+    top: 120px;
+    width: 400px;
+    height: 150px;
+    background-color: rgba(56, 56, 38, 0);
+    
+}
+.ter1{
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 20px;
+}
+.text3{
+    position: relative;
+    top: 30px;
+    width: 700px;
+    height: 70px;
+    right: 140px;
+    font-size: 19px;
+}
+.ter2{
+    color: rgb(87, 87, 87);
+    position: relative;
+    top: 20px;
+    text-align: start;
+}
+.bixm1{
+    position: relative;
+    width: 290px;
+    height: 220px;
+    background-color: rgba(153, 205, 50, 0);
+    top: 430px;
+    left: -500px;
+}
+.bixm2{
+    position: relative;
+    width: 290px;
+    height: 220px;
+    background-color: rgba(153, 205, 50, 0);
+    top: 210px;
+    left: 00px;
+}
+.bixm3{
+    position: relative;
+    width: 290px;
+    height: 220px;
+    background-color: rgba(153, 205, 50, 0);
+    top: -10px;
+    left: 490px;
+}
+.h1b{
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 60px;
+    font-size: 30px;
+}
+.tect1{
+    top: 90px;
+    position: relative;
+    color: #000000;
+    font-size: 19px;
+
+}
+.ter3{
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 60px;
+    font-size: 30px;
+}
+.teraw{
+    top: 90px;
+    position: relative;
+    color: #000000;
+    font-size: 18px;
+    
+}
+.box3{
+    width: 100%;
+    height: 1400px;
+    background-color: #ebebeb;
+}
+.textbox3{
+    width: 600px;
+    height: 150px;
+    background-color: rgba(0, 255, 255, 0)  ;
+    top: 100px;
+    position: relative;
+    text-align: center;
+}
+.texbox3{
+    position: relative;
+top: 0px;
+}
+.textbox32{
+    position: relative;
+    top: 20px;
+    color: rgb(121, 121, 121);
+}
+.mall{
+    width: 1400px;
+    height: 700px;
+    background-color: rgba(255, 235, 205, 0);
+    top: -1050px;
+    position: relative;
+}
+.div1{
+    width: 300px;
+    height: 400px;
+    background-color: rgb(29, 121, 101);
+    position: relative;
+    top: 0px;
+    right: 300px;
+    box-shadow: 13px 13px rgb(82, 82, 82);
+}
+.div2{
+    width: 300px;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    top:-400px;
+    right: -80px;
+}
+.div3{
+    width: 300px;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    top:-800px;
+    right: -460px;
+
+}
+.div4{
+    width: 300px;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    top:-710px;
+    right: 299px;
+
+}
+.div5{
+    width: 300px;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    top:-1110px;
+    right: -70px;
+
+}
+.div6{
+    width: 300px;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    top:-1500px;
+    right: -460px;
+
+}
+.h1text1{
+    width: 200px;
+    height: 200px;
+    background-color: rgba(255, 0, 0, 0);
+    top: 150px;
+    position: relative;
+    text-align: center;
+}
+.text111{
+    position: relative;
+    top: 20px;
+    color: rgb(255, 255, 255);
+}
+.terdd{
+    position: relative;
+    top: 40px;
+    font-size: 14px;
+    color: rgb(255, 255, 255);
+}
+.adiv1a{
+
+}
